@@ -1,0 +1,31 @@
+{
+  "name": "es6-baisis",
+  "version": "1.0.0",
+  "description": "aprender nociones js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dieguito2118/Es6-Baisis.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "funciones"
+  ],
+  "author": "Juan Diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dieguito2118/Es6-Baisis/issues"
+  },
+  "homepage": "https://github.com/Dieguito2118/Es6-Baisis#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.20"
+  }
+}
